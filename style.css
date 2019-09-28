@@ -1,0 +1,90 @@
+header{
+    float:left;
+    position: relative;
+    width: 100%;
+    padding: 30px;
+    height: 40%;
+    margin-top:0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background: gray;
+    text-align: center;
+}
+
+nav{
+   float:left;
+   position: relative;
+   width: 100%;
+   padding: 30px;
+   height: 30%;
+   margin-top: 5px;
+   margin-bottom: 10%;
+   background:gray;
+   text-align: center;
+
+}
+
+section{
+    float: left;
+    width: 40%;
+    padding: 30px;
+    height: 300px;
+    background: gray;
+    margin-top: -5%;
+    margin-bottom: 5%;
+    text-align: center;
+
+}
+
+article{
+    float: left; 
+    width: 50%;
+    padding: 80px;
+    background: teal;
+    height: 80px;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 15%;
+    padding-top: 25px;
+}
+
+h1 {
+    overflow: visible;
+    width: 40% 30%;
+    padding: 15px;
+    height: 30%;
+    background: blue;
+}
+
+p {
+    overflow-y: visible;
+    width: 30% 30%;
+    padding: 10px;
+    height: 20%;
+    background: lightcoral;
+}
+
+
+aside{
+    float: right;
+    width: 40%;
+    padding: 30px;
+    height: 300px;
+    background: lavender;
+    margin-top: -5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+
+.footer{
+    float:left;
+    position: relative;
+    width: 100%;
+    padding: 30px;
+    margin-bottom: 0%;
+    background: gray;
+    text-align: center;
+
+}
